@@ -1,0 +1,32 @@
+{
+  "name": "wdl",
+  "version": "1.0.0",
+  "description": "This is wdl's app",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdl818/wdl.git"
+  },
+  "keywords": [
+    "wdl",
+    "test"
+  ],
+  "author": "wdl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdl818/wdl/issues"
+  },
+  "homepage": "https://github.com/wdl818/wdl#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "utility": "^1.12.0",
+    "vue": "^2.3.2"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
